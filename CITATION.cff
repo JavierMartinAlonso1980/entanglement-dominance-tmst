@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software or theory, please cite it as below."
+authors:
+- family-names: "Martín Alonso"
+  given-names: "Javier Manuel"
+  orcid: "https://orcid.org/TU-ORCID-SI-TIENES"
+title: "Entanglement Dominance in the Zero-Temperature Limit: Simulation & Theory"
+version: 1.0.0
+doi: 10.5281/zenodo.18353640
+date-released: 2026-01-24
+url: "https://github.com/JavierMartinAlonso1980/entanglement-dominance-tmst"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Martín Alonso"
+    given-names: "Javier Manuel"
+  title: "Entanglement Dominance in the Zero-Temperature Limit"
+  year: 2026
+  publisher: "Zenodo"
+  doi: "https://doi.org/10.5281/zenodo.18353640"
