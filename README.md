@@ -18,10 +18,11 @@ $$ r > \frac{1}{2} \ln(2\bar{n}(T) + 1) $$
 2. Run simulation: `python main.py`
 
 ## Output
-The script generates a phase diagram ![Phase Diagram](img/entanglement_phase_diagram.jpg) showing the critical temperature threshold for vacuum stability.
+The script generates a phase diagram showing the critical temperature threshold for vacuum stability. ![Phase Diagram](img/entanglement_phase_diagram.jpg)
 
 ## License
 MIT License
+
 
 
 
