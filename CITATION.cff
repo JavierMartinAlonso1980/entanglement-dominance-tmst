@@ -6,7 +6,7 @@ authors:
   orcid: "https://orcid.org/0009-0007-4051-6414"
 title: "Entanglement Dominance in the Zero-Temperature Limit: Simulation & Theory"
 version: 1.0.0
-doi: 10.5281/zenodo.18353640
+doi: #
 date-released: 2026-01-24
 url: "https://github.com/JavierMartinAlonso1980/entanglement-dominance-tmst"
 preferred-citation:
@@ -17,5 +17,6 @@ preferred-citation:
   title: "Entanglement Dominance in the Zero-Temperature Limit"
   year: 2026
   publisher: "Zenodo"
-  doi: "https://doi.org/10.5281/zenodo.18353640"
+  doi: #
+
 
