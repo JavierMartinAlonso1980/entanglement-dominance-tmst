@@ -3,7 +3,7 @@ message: "If you use this software or theory, please cite it as below."
 authors:
 - family-names: "Martín Alonso"
   given-names: "Javier Manuel"
-  orcid: "https://orcid.org/TU-ORCID-SI-TIENES"
+  orcid: "https://orcid.org/0009-0007-4051-6414"
 title: "Entanglement Dominance in the Zero-Temperature Limit: Simulation & Theory"
 version: 1.0.0
 doi: 10.5281/zenodo.18353640
@@ -18,3 +18,4 @@ preferred-citation:
   year: 2026
   publisher: "Zenodo"
   doi: "https://doi.org/10.5281/zenodo.18353640"
+
