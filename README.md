@@ -30,7 +30,7 @@ https://doi.org/10.5281/zenodo.18353640
 
 This software reproduces **Theorem 4.3.1** and **Figure 4.1** of the manuscript. It maps the phase transition between thermal separability and topological entanglement in symmetric **Two-Mode Squeezed Thermal (TMST)** states.
 
-The code solves the exact boundary where the symplectic eigenvalue \(\tilde{\nu}_-\) drops below \(1/2\). The **"Entanglement Dominance"** regime is defined where the squeezing parameter \(r\) exceeds the thermal noise floor:
+The code solves the exact boundary where the symplectic eigenvalue $\tilde{\nu}_-$ drops below $1/2$. The **"Entanglement Dominance"** regime is defined where the squeezing parameter \(r\) exceeds the thermal noise floor:
 
 $$r > \frac{1}{2} \ln(2\bar{n}(T) + 1)$$
 where $\bar{n}(T)$ is the thermal occupation number at temperature $T$
@@ -88,6 +88,7 @@ If you use this software in your research, please cite:
 MIT License
 
 "Looking at the light through the cracks of reality with the curiosity of a child."
+
 
 
 
