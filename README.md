@@ -1,7 +1,7 @@
 # Entanglement-Dominance-TMST (E-D TMST)
 
-**Author:** Javier Martín Alonso  
-**Field:** Theoretical & Computational Particle Physics  
+**Author:** Javier Manuel Martín Alonso  
+**Field:** Independent Researcher (Asturias, Spain)  
 **Applications:** ALICE (LHC), Belle II (SuperKEKB), AdS/CFT Duality
 
 ## 🌌 Overview
@@ -90,6 +90,7 @@ If you use this software in your research, please cite:
 MIT License
 
 "Looking at the light through the cracks of reality with the curiosity of a child."
+
 
 
 
