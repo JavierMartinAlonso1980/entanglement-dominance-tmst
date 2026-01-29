@@ -9,6 +9,9 @@
 **Entanglement-Dominance-TMST** is a computational framework designed to identify and simulate dominant entanglement patterns within high-energy many-body systems. By bridging experimental data from heavy-ion collisions (ALICE) and precision lepton-hadron physics (Belle II), this algorithm explores the emergence of the "perfect fluid" and spacetime geometry through the lens of the **Holographic Principle**.
 
 The core objective is to map quantum correlations from the boundary (conformal field theories) to the bulk (gravity in Anti-de Sitter space), following the research lines the **Ryu-Takayanagi conjecture**.
+## 📄 Validation
+Numerical verification of Theorem 4.3.1 using ALICE proxy data (log-negativity threshold).
+👉 **[Read the Simulation Note (PDF)](TMST_simulation.pdf)**
 
 This repository contains the numerical verification code for the thesis:  
 **"Entanglement Dominance in the Zero-Temperature Limit"**  
@@ -91,6 +94,7 @@ If you use this software in your research, please cite:
 MIT License
 
 "Looking at the light through the cracks of reality with the curiosity of a child."
+
 
 
 
